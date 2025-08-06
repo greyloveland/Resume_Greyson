@@ -29,18 +29,18 @@ Willson Electronics – Organizing and Reporting Analysis
 -	Using Power Query in data cleaning
 -	Power Bi Dashboard
 -	Saved them $ 1,000’s of dollars
-Text Mining Project - Good Reads
+# Text Mining Project - Good Reads
 - Built in python
 - Feature Engineering
 - Unsupervised learning
 - Document Summarization
-Computer Vision - Space Images
+# Computer Vision - Space Images
 - Built in python
 - Uses a CNN
 - Machine Learning
-Pickleball App
+# Pickleball App
 - Built in Javascript
-Time Series Data - RNN Model
+# Time Series Data - RNN Model
 - Built in python
 - Random Forrest 
 
