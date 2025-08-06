@@ -24,7 +24,7 @@ Proactive, reliable, charismatic, dedicated worker with strong communication ski
 -	Performed Data Analysis, data cleaning and preparation as well as some data consulting.
 -	Used Power Bi to visualize data into a easy to understand manor for those that were not familiar working with data.
 ## PROJECT EXPERIENCE
-Willson Electronics – Organizing and Reporting Analysis
+### Willson Electronics – Organizing and Reporting Analysis
 -	Worked with employee data in keeping up to date employee records
 -	Using Power Query in data cleaning
 -	Power Bi Dashboard
